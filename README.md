@@ -89,8 +89,7 @@ Built with Flask. Users input customer financial details and receive instant ris
 - **Web Framework:** Flask
 
 ---
-# Note that the model file is not included due to GitHub's 100MB file size limit. To use the app, run the Jupyter notebook first to train and save the model, then run app.py.
-## This is standard practice for large ML models in real projects.
+## Note that the model file is not included due to GitHub's 100MB file size limit. To use the app, run the Jupyter notebook first to train and save the model, then run app.py. This is standard practice for large ML models in real projects.
 
 ## How to Run
 
